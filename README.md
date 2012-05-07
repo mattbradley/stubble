@@ -31,7 +31,7 @@ Usage
 -----
 
 Fire up Sinatra with `ruby stubble.rb` and visit `http://localhost:4567` in your
-browser. To use a port other than the default, try `ruby stubble.rb -p PORT`.
+browser. To use a port other than the default (4567), try `ruby stubble.rb -p PORT`.
 
 Stubbing a URL is pretty self-explanatory: just hit the button. Look at the code
 to see how it works; you'll figure it out!
