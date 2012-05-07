@@ -17,9 +17,7 @@ Dependecies
 Make sure you have Sinatra, Slim, and the Ruby driver for MongoDB installed. If
 you don't, run these commands to get 'em:
 
-    gem install sinatra
-    gem install slim
-    gem install mongo
+    gem install sinatra gem install slim gem install mongo
 
     # needed for the MongoDB driver
     gem install bson
@@ -27,11 +25,21 @@ you don't, run these commands to get 'em:
     # optional C extensions for a performance boost
     gem install bson_ext
 
+Written using Ruby 1.9.3.
+
 Usage
 -----
 
 Fire up Sinatra with `ruby stubble.rb` and visit `http://localhost:4567` in your
 browser. To use a different port, try `ruby stubble.rb -p PORT`.
 
-Stubbing a URL is pretty self-explanatory: just hit the button. Look at the code to see how it works;
-you'll figure it out!
+Stubbing a URL is pretty self-explanatory: just hit the button. Look at the code
+to see how it works; you'll figure it out!
+
+Copyright
+---------
+
+&copy; 2012 Matt Bradley
+
+This software is released under the [MIT
+license](http://www.opensource.org/licenses/MIT).
