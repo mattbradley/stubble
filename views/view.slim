@@ -1,0 +1,6 @@
+div
+  input#stub.url type="text" value="#{url(@stub)}"
+div style="margin-bottom: 8px;"
+  ' will take you to
+strong style="font-size: 1.5em;"
+  a href="#{@url}" = @url

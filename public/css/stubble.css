@@ -1,0 +1,12 @@
+body { text-align: center; }
+#stubble { color: #333; }
+#stubble:hover { color: #000; text-decoration: none; }
+.wrapper { display: inline-block; margin-top: 32px; }
+.hero-unit h1 { font-size: 92px; }
+.hero-unit p { font-size: 27px; }
+.spacer { height: 48px; }
+.url { width: 332px; text-align: center; }
+.options { margin-left: 3px; font-size: 18px; text-align: left; }
+#until { font-size: 18px; height: 32px; margin-top: 4px; margin-left: 6px; }
+#stub-it { float: right; margin-top: 4px; padding: 5px 20px 4px; margin-right: 1px; font-size: 18px; }
+#stub-it i { margin-top: 3px; margin-right: 6px; }
