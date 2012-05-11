@@ -17,7 +17,9 @@ Dependecies
 Make sure you have Sinatra, Slim, and the Ruby driver for MongoDB installed. If
 you don't, run these commands to get 'em:
 
-    gem install sinatra gem install slim gem install mongo
+    gem install sinatra
+    gem install slim
+    gem install mongo
 
     # needed for the MongoDB driver
     gem install bson
@@ -41,5 +43,4 @@ Copyright
 
 &copy; 2012 Matt Bradley
 
-This software is released under the [MIT
-license](http://www.opensource.org/licenses/MIT).
+This software is released under the [MIT license](http://www.opensource.org/licenses/MIT).
