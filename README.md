@@ -38,9 +38,10 @@ browser. To use a port other than the default (4567), try `ruby stubble.rb -p PO
 Stubbing a URL is pretty self-explanatory: just hit the button. Look at the code
 to see how it works; you'll figure it out!
 
-Copyright
----------
+License
+-------
 
 &copy; 2012 Matt Bradley
 
-This software is released under the [MIT license](http://www.opensource.org/licenses/MIT).
+This software is freely distributable under the terms of the
+[MIT license](http://www.opensource.org/licenses/MIT).
