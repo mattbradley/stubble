@@ -41,7 +41,7 @@ to see how it works; you'll figure it out!
 License
 -------
 
-&copy; 2012 Matt Bradley
+Copyright (c) 2012 Matt Bradley
 
 This software is freely distributable under the terms of the
 [MIT license](http://www.opensource.org/licenses/MIT).
