@@ -2,7 +2,7 @@ stubble
 =======
 
 A super simple URL shortening app written in Ruby using Sinatra, Slim, and
-MongoDB. Use it as a baseline for your own URL shortening service or as an
+MongoDB. Use it as a foundation for your own URL shortening service or as an
 example project when learning Ruby, Sinatra, Slim, or MongoDB.
 
 * [Sinatra](http://www.sinatrarb.com/): web framework that handles routing and
