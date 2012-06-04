@@ -12,7 +12,7 @@ example project when learning Ruby, Sinatra, Slim, or MongoDB.
   JSON(-like) documents
 
 Dependencies
------------
+------------
 
 Make sure you have Sinatra, Slim, and the Ruby driver for MongoDB installed. If
 you don't, run these commands to get 'em:
