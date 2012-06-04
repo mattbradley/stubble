@@ -11,7 +11,7 @@ example project when learning Ruby, Sinatra, Slim, or MongoDB.
 * [MongoDB](http://www.mongodb.org/): NoSQL database that stores data in
   JSON(-like) documents
 
-Dependecies
+Dependencies
 -----------
 
 Make sure you have Sinatra, Slim, and the Ruby driver for MongoDB installed. If
