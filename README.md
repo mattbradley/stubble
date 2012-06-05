@@ -1,7 +1,4 @@
-stubble
-=======
-
-A super simple URL shortening app written in Ruby using Sinatra, Slim, and
+**stubble** is a super simple URL shortening app written in Ruby using Sinatra, Slim, and
 MongoDB. Use it as a foundation for your own URL shortening service or as an
 example project when learning Ruby, Sinatra, Slim, or MongoDB.
 
